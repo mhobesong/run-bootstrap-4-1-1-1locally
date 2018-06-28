@@ -1,4 +1,4 @@
-# How to run bootstrap 4.1.1 as a local project for offline access
+# How to run bootstrap 4.1.1 documentation as a local project for offline access
 This is a guide on how you can run and access the bootstrap document on your local machine. No more need to always access online website for lookups.
  
 First you need to download and extract bootstrap-4.1.1 on any directory on your pc. You can download bootstrap v4.1.1 from this [link](https://github.com/twbs/bootstrap/archive/v4.1.1.zip) or find download link on the bootstrap [website](https://http://getbootstrap.com/). 
