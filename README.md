@@ -24,6 +24,9 @@ $ gem install jekyll
 Test if Jekyll is working
 ```jekyll -v
 ```
+Windows users can find installation guide [here](https://learn.cloudcannon.com/jekyll/install-jekyll-on-windows/).
+MacOS users can find installation guide [here](https://learn.cloudcannon.com/jekyll/install-jekyll-on-os-x/).
+
 ## 2. Install Gem Bundler
 Gem Bundler helps you track and install the gems you need for Ruby projects.
 Install this by doing:
