@@ -72,3 +72,4 @@ Configuration file: /my/bootstrap/path/bootstrap-4.1.1/_config.yml
   ```
 Just open your favourite browser and type the address **localhost:9001**.
 That's it... You are done.
+![screenshot](https://github.com/mhobesong/run-bootstrap-4-1-1-1locally/raw/master/images/screenshot.png)
