@@ -31,7 +31,15 @@ Install this by doing:
 ```
 $ gem install bundler
 ```
-## 3. Run Jekyll
+## 3. Install all needed node packages
+```
+$ npm install
+```
+or if you have *yarn* installed
+```
+yarn install
+```
+## 4. Run Jekyll
 Next, you have to run Jekyll to bundle the project and run a local server so you can access the project from a browser. To do this just run:
 ```
 $ jekyll serve
