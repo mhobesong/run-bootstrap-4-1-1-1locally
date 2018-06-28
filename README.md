@@ -48,7 +48,7 @@ On first run of the above command I got an error saying something like:
 ```
 ... gems/2.3.0/gems/bundler-1.16.2/lib/bundler/runtime.rb:313:in `check_for_activated_spec!': You have already activated kramdown 1.17.0, but your Gemfile requires kramdown 1.16.2. Prepending `bundle exec` to your command may solve this. (Gem::LoadError) ...
 ```
-To solve this, just edit the **Gemfile.lock** file at the root of the bootstrap project. Find the line that says ``kramdown (1.16.1)`` and change the version to fit that mentioned in the error message above. So that line will finally say ``kramdown (1.17.0)``.
+To solve this, just edit the **Gemfile.lock** file at the root of the bootstrap project. Find the line that says ``kramdown (1.16.2)`` and change the version to fit that mentioned in the error message above. So that line will finally say ``kramdown (1.17.0)``.
 
 Now you can re-run ``$ jekyll serve``.
 You should have some output that looks like this
